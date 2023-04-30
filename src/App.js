@@ -8,7 +8,6 @@ const App = () => {
   return (
     <div>
       <Navbar />
-      <div></div>
       <div className="about-sec">
         <About />
       </div>
